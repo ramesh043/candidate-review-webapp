@@ -2,6 +2,31 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 ### [you can click on link to see live webiste in your browser] 🌐 <a href="https://candidate-review-webapp.vercel.app/">Candiadte Review Webapp</a>
+# Frontend Developer Intern Assessment
+
+This project is a submission for the Frontend Developer Intern assessment at [Stealth Startup]. It is a Next.js application designed to meet the requirements outlined in the assignment.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Technical Specifications](#technical-specifications)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+
+The project is a candidate review interface that displays candidate submissions for each assignment. It retrieves candidate details and scores from a mock API response and presents them in a user-friendly interface.
+
+## Technical Specifications
+
+- **Frontend Framework**: Next.js with TypeScript
+
+- **Error Handling**: Basic error handling implemented for API interactions
+
 
 First, run the development server:
 
